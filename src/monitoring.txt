@@ -1,0 +1,311 @@
+Bejeweled Game Clone by Nuri Yalcin
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S  T  W  S  D  T  W  S  
+1|S  W  T  D  S  W  T  S  D  T  
+2|D  D  S  T  W  S  D  T  W  S  
+3|S  W  T  D  S  W  T  S  D  T  
+4|W  D  S  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 3 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D  T  W  S  
+1|S  W  T     S  W  T  S  D  T  
+2|D  D  S     W  S  D  T  W  S  
+3|S  W  T  T  S  W  T  S  D  T  
+4|W  D  S  D  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 1 7
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D  T  W  S  
+1|S  W  T     S  W  T  S  D  T  
+2|D  D  S     W  S  D  T  W  S  
+3|S  W  T  T  S  W  T  S  D  T  
+4|W  D  S  D  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 7 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D     W  S  
+1|S  W  T     S  W  T     D  T  
+2|D  D  S     W  S  D     W  S  
+3|S  W  T  T  S  W  T  T  D  T  
+4|W  D  S  D  D  D  S  S  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  S  W  S  
+Select a coordinate or enter E to end the game : 3 4
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D     W  S  
+1|S  W  T     S  W  T     D  T  
+2|D  D  S     W  S  D     W  S  
+3|S  W  T  T  S  W  T  T  D  T  
+4|W  D  S  D  D  D  S  S  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  S  W  S  
+Select a coordinate or enter E to end the game : 7 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D           
+1|S  W  T     S  W  T     W  S  
+2|D  D  S     W  S  D     D  T  
+3|S  W  T  T  S  W  T     W  S  
+4|W  D  S  D  D  D  S  T  D  T  
+5|D  D  S  T  W  S  D  S  T  S  
+6|S  W  D  D  S  W  T  T  W  S  
+7|W  W  S  T  D  D  S  S  D  T  
+8|D  D  S  T  W  S  D  W  T  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 0 8
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D           
+1|S  W  T     S  W  T     W  S  
+2|D  D  S     W  S  D     D  T  
+3|S  W  T  T  S  W  T     W  S  
+4|W  D  S  D  D  D  S  T  D  T  
+5|D  D  S  T  W  S  D  S  T  S  
+6|S  W  D  D  S  W  T  T  W  S  
+7|W  W  S  T  D  D  S  S  D  T  
+8|D  D  S  T  W  S  D  W  T  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 8 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D           
+1|S  W  T     S  W  T     W  S  
+2|D  D  S     W  S  D     D  T  
+3|S  W  T  T  S  W  T     W  S  
+4|W  D  S  D  D  D  S  T  D  T  
+5|D  D  S  T  W  S  D  S  T  S  
+6|S  W  D  D  S  W  T  T  W  S  
+7|W  W  S  T  D  D  S  S  D  T  
+8|D  D  S  T  W  S  D  W  T  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : E
+Thanks for playing.
+
+1. Player's name: murat
+Your game session summary is : 
+Name : murat
+Score : 125 in 7 moves
+
+Do you want to play again (0/1) : 1
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S  T  W  S  D  T  W  S  
+1|S  W  T  D  S  W  T  S  D  T  
+2|D  D  S  T  W  S  D  T  W  S  
+3|S  W  T  D  S  W  T  S  D  T  
+4|W  D  S  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 3 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D  T  W  S  
+1|S  W  T     S  W  T  S  D  T  
+2|D  D  S     W  S  D  T  W  S  
+3|S  W  T  T  S  W  T  S  D  T  
+4|W  D  S  D  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 1 7
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D  T  W  S  
+1|S  W  T     S  W  T  S  D  T  
+2|D  D  S     W  S  D  T  W  S  
+3|S  W  T  T  S  W  T  S  D  T  
+4|W  D  S  D  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 8 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D  T     S  
+1|S  W  T     S  W  T  S     T  
+2|D  D  S     W  S  D  T     S  
+3|S  W  T  T  S  W  T  S  W  T  
+4|W  D  S  D  D  D  S  W  D  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  T  D  S  
+Select a coordinate or enter E to end the game : 7 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D        S  
+1|S  W  T     S  W  T        T  
+2|D  D  S     W  S  D        S  
+3|S  W  T  T  S  W  T  T  W  T  
+4|W  D  S  D  D  D  S  S  D  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  S  D  S  
+Select a coordinate or enter E to end the game : 0 9
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S     W  S  D        S  
+1|S  W  T     S  W  T        T  
+2|D  D  S     W  S  D        S  
+3|S  W  T  T  S  W  T  T  W  T  
+4|W  D  S  D  D  D  S  S  D  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  D  W  S  D  S  D  S  
+Select a coordinate or enter E to end the game : E
+Thanks for playing.
+
+2. Player's name: yalcin
+Your game session summary is : 
+Name : yalcin
+Score : 115 in 5 moves
+You are the 2. player in the list.
+You need 10 points to be 1 in the list.
+
+Do you want to play again (0/1) : 1
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S  T  W  S  D  T  W  S  
+1|S  W  T  D  S  W  T  S  D  T  
+2|D  D  S  T  W  S  D  T  W  S  
+3|S  W  T  D  S  W  T  S  D  T  
+4|W  D  S  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 7 8
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S  T  W  S  D  T  W  S  
+1|S  W  T  D  S  W  T  S  D  T  
+2|D  D  S  T  W  S  D  T  W  S  
+3|S  W  T  D  S  W  T  S  D  T  
+4|W  D  S  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 4 0
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|D  D  S  T           T  W  S  
+1|S  W  T  D  S  S  D  S  D  T  
+2|D  D  S  T  W  S  T  T  W  S  
+3|S  W  T  D  S  W  T  S  D  T  
+4|W  D  S  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  D  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 0 4
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|         T           T  W  S  
+1|D  D  S  D  S  S  D  S  D  T  
+2|S  W  T  T  W  S  T  T  W  S  
+3|D  D  S  D  S  W  T  S  D  T  
+4|S  W  T  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  S  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 4 4
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|         T           T  W  S  
+1|D  D  S  D  S  S  D  S  D  T  
+2|S  W  T  T  W  S  T  T  W  S  
+3|D  D  S  D  S  W  T  S  D  T  
+4|S  W  T  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  S  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : 3 4
+
+ |0  1  2  3  4  5  6  7  8  9
+-+----------------------------
+0|         T           T  W  S  
+1|D  D  S  D  S  S  D  S  D  T  
+2|S  W  T  T  W  S  T  T  W  S  
+3|D  D  S  D  S  W  T  S  D  T  
+4|S  W  T  T  D  D  S  W  T  S  
+5|D  D  S  T  W  S  D  T  W  S  
+6|S  W  S  D  S  W  T  S  D  T  
+7|W  W  S  T  D  D  S  W  T  S  
+8|D  D  S  T  W  S  D  T  W  S  
+9|D  D  S  T  W  S  D  T  W  S  
+Select a coordinate or enter E to end the game : E
+Thanks for playing.
+
+3. Player's name: ali
+Your game session summary is : 
+Name : ali
+Score : 60 in 5 moves
+You are the 3. player in the list.
+You need 55 points to be 2 in the list.
+
+Do you want to play again (0/1) : 0
+
+Thanks for playing.
